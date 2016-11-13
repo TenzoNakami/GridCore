@@ -1,2 +1,2 @@
-java -Xmx1024M -jar spigot.jar -o false asd
+java -Xmx1024M -jar spigot.jar -o false
 PAUSE
